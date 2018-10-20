@@ -1,0 +1,2 @@
+# lr-blog
+my blog
